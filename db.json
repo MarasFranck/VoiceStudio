@@ -1,0 +1,25 @@
+{
+    "speakers":
+    [
+        {
+          "name": "ben_sheedy",
+          "version": "1.0.0",
+          "model": "vae-tacotron_hifigan"
+        },
+        {
+          "name": "ben_sheedy",
+          "version": "1.2.0",
+          "model": "vae-tacotron_hifigan"
+        },
+        {
+          "name": "jane_perry",
+          "version": "1.0.0",
+          "model": "vae-tacotron_hifigan"
+        },
+        {
+          "name": "jane_perry",
+          "version": "1.2.0",
+          "model": "vae-tacotron_hifigan"
+        }
+      ]
+}
