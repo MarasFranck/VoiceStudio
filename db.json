@@ -21,5 +21,32 @@
           "version": "1.2.0",
           "model": "vae-tacotron_hifigan"
         }
+      ],
+    "takes":
+    [
+        {
+          "index": 0,
+          "speaker": "ben_sheedy",
+          "style": "neutral normal normal".
+          "line-id": "123"
+        },
+        {
+          "index": 1,
+          "speaker": "ben_sheedy",
+          "style": "neutral normal normal",
+          "line-id": "456"
+        },
+        {
+          "index": 2,
+          "speaker": "ben_sheedy",
+          "style": "neutral normal normal",
+          "line-id": "789"
+        },
+        {
+          "index": 3,
+          "speaker": "ben_sheedy",
+          "style": "neutral normal normal",
+          "line-id": "147"
+        }
       ]
 }
