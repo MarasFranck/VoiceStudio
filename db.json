@@ -1,71 +1,72 @@
 {
-    "speakers":
-    [
-        {
-          "name": "ben_sheedy",
-          "version": "1.0.0",
-          "model": "vae-tacotron_hifigan"
-        },
-        {
-          "name": "David Yow",
-          "version": "1.2.0",
-          "model": "vae-tacotron_hifigan"
-        },
-        {
-          "name": "jane_perry",
-          "version": "1.0.0",
-          "model": "vae-tacotron_hifigan"
-        },
-        {
-          "name": "shannon hansen",
-          "version": "1.2.0",
-          "model": "vae-tacotron_hifigan"
-        },
-          "name": "Jean Gabin",
-          "version": "1.0.0",
-          "model": "vae-tacotron_hifigan"
-        },
-        {
-          "name": "Jack Torrance",
-          "version": "1.2.0",
-          "model": "vae-tacotron_hifigan"
-        },
-        {
-          "name": "Alain Delon",
-          "version": "1.0.0",
-          "model": "vae-tacotron_hifigan"
-        },
-        {
-          "name": "Lino Ventura",
-          "version": "1.2.0",
-          "model": "vae-tacotron_hifigan"
-        }
-      ],
-    "takes":
-    [
-        {
-          "index": 0,
-          "speaker": "ben_sheedy",
-          "style": "neutral normal normal",
-          "line-id": "123"
-        },
-        {
-          "index": 1,
-          "speaker": "ben_sheedy",
-          "style": "neutral normal normal",
-          "line-id": "456"
-        },
-        {
-          "index": 2,
-          "speaker": "ben_sheedy",
-          "style": "neutral normal normal",
-          "line-id": "789"
-        },
-        {
-          "index": 3,
-          "speaker": "ben_sheedy",
-          "style": "neutral normal normal",
-          "line-id": "147"
-        }
-      ]
+  "speakers":
+  [
+      {
+        "name": "ben_sheedy",
+        "version": "1.0.0",
+        "model": "vae-tacotron_hifigan"
+      },
+      {
+        "name": "David Yow",
+        "version": "1.2.0",
+        "model": "vae-tacotron_hifigan"
+      },
+      {
+        "name": "jane_perry",
+        "version": "1.0.0",
+        "model": "vae-tacotron_hifigan"
+      },
+      {
+        "name": "shannon hansen",
+        "version": "1.2.0",
+        "model": "vae-tacotron_hifigan"
+      },
+      {
+        "name": "Jean Gabin",
+        "version": "1.0.0",
+        "model": "vae-tacotron_hifigan"
+      },
+      {
+        "name": "Jack Torrance",
+        "version": "1.2.0",
+        "model": "vae-tacotron_hifigan"
+      },
+      {
+        "name": "Alain Delon",
+        "version": "1.0.0",
+        "model": "vae-tacotron_hifigan"
+      },
+      {
+        "name": "Lino Ventura",
+        "version": "1.2.0",
+        "model": "vae-tacotron_hifigan"
+      }
+    ],
+  "takes":
+  [
+      {
+        "index": 0,
+        "speaker": "ben_sheedy",
+        "style": "neutral normal normal",
+        "line-id": "123"
+      },
+      {
+        "index": 1,
+        "speaker": "ben_sheedy",
+        "style": "neutral normal normal",
+        "line-id": "456"
+      },
+      {
+        "index": 2,
+        "speaker": "ben_sheedy",
+        "style": "neutral normal normal",
+        "line-id": "789"
+      },
+      {
+        "index": 3,
+        "speaker": "ben_sheedy",
+        "style": "neutral normal normal",
+        "line-id": "147"
+      }
+    ]
 }
