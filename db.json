@@ -7,7 +7,7 @@
           "model": "vae-tacotron_hifigan"
         },
         {
-          "name": "franck maras",
+          "name": "David Yow",
           "version": "1.2.0",
           "model": "vae-tacotron_hifigan"
         },
@@ -18,6 +18,25 @@
         },
         {
           "name": "shannon hansen",
+          "version": "1.2.0",
+          "model": "vae-tacotron_hifigan"
+        },
+          "name": "Jean Gabin",
+          "version": "1.0.0",
+          "model": "vae-tacotron_hifigan"
+        },
+        {
+          "name": "Jack Torrance",
+          "version": "1.2.0",
+          "model": "vae-tacotron_hifigan"
+        },
+        {
+          "name": "Alain Delon",
+          "version": "1.0.0",
+          "model": "vae-tacotron_hifigan"
+        },
+        {
+          "name": "Lino Ventura",
           "version": "1.2.0",
           "model": "vae-tacotron_hifigan"
         }
