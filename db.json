@@ -1,16 +1,19 @@
 {
   "speakers": [
     {
+      "index": 0,
       "name": "ben_sheedy",
       "version": "1.0.0",
       "model": "vae-tacotron_hifigan"
     },
     {
+      "index": 1,
       "name": "David Yow",
       "version": "1.2.0",
       "model": "vae-tacotron_hifigan"
     },
     {
+      "index": 2,
       "name": "jane_perry",
       "version": "1.0.0",
       "model": "vae-tacotron_hifigan"
@@ -21,21 +24,25 @@
       "model": "vae-tacotron_hifigan"
     },
     {
+      "index": 3,
       "name": "Jean Gabin",
       "version": "1.0.0",
       "model": "vae-tacotron_hifigan"
     },
     {
+      "index": 4,
       "name": "Jack Torrance",
       "version": "1.2.0",
       "model": "vae-tacotron_hifigan"
     },
     {
+      "index": 5,
       "name": "Alain Delon",
       "version": "1.0.0",
       "model": "vae-tacotron_hifigan"
     },
     {
+      "index": 6,
       "name": "Lino Ventura",
       "version": "1.2.0",
       "model": "vae-tacotron_hifigan"
