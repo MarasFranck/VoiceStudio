@@ -108,5 +108,106 @@
     {"id": 22, "description": "joy_slow_projected"},
     {"id": 23, "description": "joy_slow_whisper"},
     {"id": 24, "description": "relieved_normal_normal"}
+  ],
+  {
+  "Lines": [
+    {
+      "ID": 1,
+      "Text": "Hello, how are you?",
+      "Phonemes": "HH AH L OW, HH AW AH Y UW",
+      "Takes": [
+        {
+          "ID": 1,
+          "Voice": "John",
+          "SpeakingStyle": "angry_fast_projected",
+          "Model": "Standard",
+          "Version": "v1.0"
+        },
+        {
+          "ID": 2,
+          "Voice": "John",
+          "SpeakingStyle": "angry_fast_whisper",
+          "Model": "Expressive",
+          "Version": "v2.0"
+        },
+        {
+          "ID": 3,
+          "Voice": "John",
+          "SpeakingStyle": "angry_normal_normal",
+          "Model": "Enhanced",
+          "Version": "v3.0"
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "Text": "I'm doing well, thank you.",
+      "Phonemes": "AY M D UW IH NG W EH L, TH AE NG K Y UW",
+      "Takes": [
+        {
+          "ID": 1,
+          "Voice": "Jane",
+          "SpeakingStyle": "angry_slow_whisper",
+          "Model": "Standard",
+          "Version": "v1.0"
+        },
+        {
+          "ID": 2,
+          "Voice": "Jane",
+          "SpeakingStyle": "authority_fast_normal",
+          "Model": "Expressive",
+          "Version": "v2.0"
+        }
+      ]
+    },
+    {
+      "ID": 3,
+      "Text": "What's your favorite color?",
+      "Phonemes": "W AH T S Y AO R F EY V ER AH T K AH L ER",
+      "Takes": [
+        {
+          "ID": 1,
+          "Voice": "David",
+          "SpeakingStyle": "joy_slow_projected",
+          "Model": "Standard",
+          "Version": "v1.0"
+        }
+      ]
+    },
+    
+      "ID": 4,
+      "Text": "My favorite color is blue.",
+      "Phonemes": "M AY F EY V ER AH T K AH L ER IH Z B L UW",
+      "Takes": [
+        {
+          "ID": 1,
+          "Voice": "Emily",
+          "SpeakingStyle": "relieved_normal_normal",
+          "Model": "Standard",
+          "Version": "v1.0"
+        },
+        {
+          "ID": 2,
+          "Voice": "Emily",
+          "SpeakingStyle": "authority_slow_projected",
+          "Model": "Expressive",
+          "Version": "v2.0"
+        },
+        {
+          "ID": 3,
+          "Voice": "Emily",
+          "SpeakingStyle": "joy_fast_whisper",
+          "Model": "Enhanced",
+          "Version": "v3.0"
+        },
+        {
+          "ID": 4,
+          "Voice": "Emily",
+          "SpeakingStyle": "angry_normal_projected",
+          "Model": "Ultra",
+          "Version": "v4.0"
+        }
+      ]
+    }
   ]
 }
