@@ -82,34 +82,108 @@
       "line-id": "147"
     }
   ],
-"styles": [
-    {"id": 0, "description": "angry_fast_projected"},
-    {"id": 1, "description": "angry_fast_whisper"},
-    {"id": 2, "description": "angry_normal_normal"},
-    {"id": 3, "description": "angry_normal_projected"},
-    {"id": 4, "description": "angry_slow_normal"},
-    {"id": 5, "description": "angry_slow_projected"},
-    {"id": 6, "description": "angry_slow_whisper"},
-    {"id": 7, "description": "authority_fast_normal"},
-    {"id": 8, "description": "authority_fast_whisper"},
-    {"id": 9, "description": "authority_normal_normal"},
-    {"id": 10, "description": "authority_normal_projected"},
-    {"id": 11, "description": "authority_normal_whisper"},
-    {"id": 12, "description": "authority_slow_normal"},
-    {"id": 13, "description": "authority_slow_projected"},
-    {"id": 14, "description": "authority_slow_whisper"},
-    {"id": 15, "description": "joy_fast_normal"},
-    {"id": 16, "description": "joy_fast_projected"},
-    {"id": 17, "description": "joy_fast_whisper"},
-    {"id": 18, "description": "joy_normal_normal"},
-    {"id": 19, "description": "joy_normal_projected"},
-    {"id": 20, "description": "joy_normal_whisper"},
-    {"id": 21, "description": "joy_slow_normal"},
-    {"id": 22, "description": "joy_slow_projected"},
-    {"id": 23, "description": "joy_slow_whisper"},
-    {"id": 24, "description": "relieved_normal_normal"}
+  "styles": [
+    {
+      "id": 0,
+      "description": "angry_fast_projected"
+    },
+    {
+      "id": 1,
+      "description": "angry_fast_whisper"
+    },
+    {
+      "id": 2,
+      "description": "angry_normal_normal"
+    },
+    {
+      "id": 3,
+      "description": "angry_normal_projected"
+    },
+    {
+      "id": 4,
+      "description": "angry_slow_normal"
+    },
+    {
+      "id": 5,
+      "description": "angry_slow_projected"
+    },
+    {
+      "id": 6,
+      "description": "angry_slow_whisper"
+    },
+    {
+      "id": 7,
+      "description": "authority_fast_normal"
+    },
+    {
+      "id": 8,
+      "description": "authority_fast_whisper"
+    },
+    {
+      "id": 9,
+      "description": "authority_normal_normal"
+    },
+    {
+      "id": 10,
+      "description": "authority_normal_projected"
+    },
+    {
+      "id": 11,
+      "description": "authority_normal_whisper"
+    },
+    {
+      "id": 12,
+      "description": "authority_slow_normal"
+    },
+    {
+      "id": 13,
+      "description": "authority_slow_projected"
+    },
+    {
+      "id": 14,
+      "description": "authority_slow_whisper"
+    },
+    {
+      "id": 15,
+      "description": "joy_fast_normal"
+    },
+    {
+      "id": 16,
+      "description": "joy_fast_projected"
+    },
+    {
+      "id": 17,
+      "description": "joy_fast_whisper"
+    },
+    {
+      "id": 18,
+      "description": "joy_normal_normal"
+    },
+    {
+      "id": 19,
+      "description": "joy_normal_projected"
+    },
+    {
+      "id": 20,
+      "description": "joy_normal_whisper"
+    },
+    {
+      "id": 21,
+      "description": "joy_slow_normal"
+    },
+    {
+      "id": 22,
+      "description": "joy_slow_projected"
+    },
+    {
+      "id": 23,
+      "description": "joy_slow_whisper"
+    },
+    {
+      "id": 24,
+      "description": "relieved_normal_normal"
+    }
   ],
-  {
   "Lines": [
     {
       "ID": 1,
@@ -174,7 +248,7 @@
         }
       ]
     },
-    
+    {
       "ID": 4,
       "Text": "My favorite color is blue.",
       "Phonemes": "M AY F EY V ER AH T K AH L ER IH Z B L UW",
