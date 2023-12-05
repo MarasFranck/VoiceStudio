@@ -82,7 +82,7 @@
       "line-id": "147"
     }
   ],
-"style": [
+"styles": [
     {"id": 0, "description": "angry_fast_projected"},
     {"id": 1, "description": "angry_fast_whisper"},
     {"id": 2, "description": "angry_normal_normal"},
