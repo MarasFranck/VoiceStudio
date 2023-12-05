@@ -189,24 +189,26 @@
       "ID": 1,
       "Text": "Hello, how are you?",
       "Phonemes": "HH AH L OW, HH AW AH Y UW",
+      "Voice": "5",
+      "SpeakingStyle": "angry_fast_projected",
       "Takes": [
         {
           "ID": 1,
-          "Voice": "John",
+          "Voice": "5",
           "SpeakingStyle": "angry_fast_projected",
           "Model": "Standard",
           "Version": "v1.0"
         },
         {
           "ID": 2,
-          "Voice": "John",
+          "Voice": "5",
           "SpeakingStyle": "angry_fast_whisper",
           "Model": "Expressive",
           "Version": "v2.0"
         },
         {
           "ID": 3,
-          "Voice": "John",
+          "Voice": "5",
           "SpeakingStyle": "angry_normal_normal",
           "Model": "Enhanced",
           "Version": "v3.0"
@@ -217,17 +219,19 @@
       "ID": 2,
       "Text": "I'm doing well, thank you.",
       "Phonemes": "AY M D UW IH NG W EH L, TH AE NG K Y UW",
+      "Voice": "0",
+      "SpeakingStyle": "angry_slow_whisper",
       "Takes": [
         {
           "ID": 1,
-          "Voice": "Jane",
+          "Voice": "0",
           "SpeakingStyle": "angry_slow_whisper",
           "Model": "Standard",
           "Version": "v1.0"
         },
         {
           "ID": 2,
-          "Voice": "Jane",
+          "Voice": "0",
           "SpeakingStyle": "authority_fast_normal",
           "Model": "Expressive",
           "Version": "v2.0"
@@ -238,10 +242,12 @@
       "ID": 3,
       "Text": "What's your favorite color?",
       "Phonemes": "W AH T S Y AO R F EY V ER AH T K AH L ER",
+      "Voice": "1",
+      "SpeakingStyle": "joy_slow_projected",
       "Takes": [
         {
           "ID": 1,
-          "Voice": "David",
+          "Voice": "1",
           "SpeakingStyle": "joy_slow_projected",
           "Model": "Standard",
           "Version": "v1.0"
@@ -252,31 +258,33 @@
       "ID": 4,
       "Text": "My favorite color is blue.",
       "Phonemes": "M AY F EY V ER AH T K AH L ER IH Z B L UW",
+      "Voice": "7",
+      "SpeakingStyle": "relieved_normal_normal",
       "Takes": [
         {
           "ID": 1,
-          "Voice": "Emily",
+          "Voice": "7",
           "SpeakingStyle": "relieved_normal_normal",
           "Model": "Standard",
           "Version": "v1.0"
         },
         {
           "ID": 2,
-          "Voice": "Emily",
+          "Voice": "7",
           "SpeakingStyle": "authority_slow_projected",
           "Model": "Expressive",
           "Version": "v2.0"
         },
         {
           "ID": 3,
-          "Voice": "Emily",
+          "Voice": "7",
           "SpeakingStyle": "joy_fast_whisper",
           "Model": "Enhanced",
           "Version": "v3.0"
         },
         {
           "ID": 4,
-          "Voice": "Emily",
+          "Voice": "7",
           "SpeakingStyle": "angry_normal_projected",
           "Model": "Ultra",
           "Version": "v4.0"
