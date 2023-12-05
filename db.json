@@ -4,48 +4,56 @@
       "index": 0,
       "name": "ben_sheedy",
       "version": "1.0.0",
-      "model": "vae-tacotron_hifigan"
+      "model": "vae-tacotron_hifigan",
+      "img": "https://tinyurl.com/yewy2a5k"
     },
     {
       "index": 1,
       "name": "David Yow",
       "version": "1.2.0",
-      "model": "vae-tacotron_hifigan"
+      "model": "vae-tacotron_hifigan",
+      "img": "https://tinyurl.com/mwxj2vs5"
     },
     {
       "index": 2,
       "name": "jane_perry",
       "version": "1.0.0",
-      "model": "vae-tacotron_hifigan"
+      "model": "vae-tacotron_hifigan",
+      "img": "https://tinyurl.com/58u2hzey"
     },
     {
       "name": "shannon hansen",
       "version": "1.2.0",
-      "model": "vae-tacotron_hifigan"
+      "model": "vae-tacotron_hifigan",
+      "img": "https://tinyurl.com/fhkpexy4"
     },
     {
       "index": 3,
       "name": "Jean Gabin",
       "version": "1.0.0",
-      "model": "vae-tacotron_hifigan"
+      "model": "vae-tacotron_hifigan",
+      "img": https://tinyurl.com/mt42kvwm"
     },
     {
       "index": 4,
       "name": "Jack Torrance",
       "version": "1.2.0",
-      "model": "vae-tacotron_hifigan"
+      "model": "vae-tacotron_hifigan",
+      "img": "https://tinyurl.com/yfz7ctr3"
     },
     {
       "index": 5,
       "name": "Alain Delon",
       "version": "1.0.0",
-      "model": "vae-tacotron_hifigan"
+      "model": "vae-tacotron_hifigan",
+      "img": "https://tinyurl.com/bdcu6atm"
     },
     {
       "index": 6,
       "name": "Lino Ventura",
       "version": "1.2.0",
-      "model": "vae-tacotron_hifigan"
+      "model": "vae-tacotron_hifigan",
+      "img": "https://tinyurl.com/55u8ex4e"
     }
   ],
   "takes": [
