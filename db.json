@@ -2,7 +2,7 @@
   "speakers": [
     {
       "index": 0,
-      "name": "ben_sheedy",
+      "name": "Ben Sheedy",
       "version": "1.0.0",
       "model": "vae-tacotron_hifigan",
       "img": "https://tinyurl.com/yewy2a5k"
@@ -16,13 +16,13 @@
     },
     {
       "index": 2,
-      "name": "jane_perry",
+      "name": "Jane Perry",
       "version": "1.0.0",
       "model": "vae-tacotron_hifigan",
       "img": "https://tinyurl.com/58u2hzey"
     },
     {
-      "name": "shannon hansen",
+      "name": "Shannon Hansen",
       "version": "1.2.0",
       "model": "vae-tacotron_hifigan",
       "img": "https://tinyurl.com/fhkpexy4"
@@ -59,7 +59,7 @@
   "takes": [
     {
       "index": 0,
-      "speaker": "ben_sheedy",
+      "speaker": "Ben Sheedy",
       "style": "neutral normal normal",
       "line-id": "123"
     },
@@ -71,13 +71,13 @@
     },
     {
       "index": 2,
-      "speaker": "jane_perry",
+      "speaker": "Jane Perry",
       "style": "neutral normal normal",
       "line-id": "789"
     },
     {
       "index": 3,
-      "speaker": "shannon hansen",
+      "speaker": "Shannon Hansen",
       "style": "neutral normal normal",
       "line-id": "147"
     }
@@ -189,26 +189,26 @@
       "ID": 1,
       "Text": "Hello, how are you?",
       "Phonemes": "HH AH L OW, HH AW AH Y UW",
-      "Voice": "5",
+      "Voice": "Alain Delon",
       "SpeakingStyle": "angry_fast_projected",
       "Takes": [
         {
           "ID": 1,
-          "Voice": "5",
+          "Voice": "Alain Delon",
           "SpeakingStyle": "angry_fast_projected",
           "Model": "Standard",
           "Version": "v1.0"
         },
         {
           "ID": 2,
-          "Voice": "5",
+          "Voice": "Alain Delon",
           "SpeakingStyle": "angry_fast_whisper",
           "Model": "Expressive",
           "Version": "v2.0"
         },
         {
           "ID": 3,
-          "Voice": "5",
+          "Voice": "Alain Delon",
           "SpeakingStyle": "angry_normal_normal",
           "Model": "Enhanced",
           "Version": "v3.0"
@@ -219,19 +219,19 @@
       "ID": 2,
       "Text": "I'm doing well, thank you.",
       "Phonemes": "AY M D UW IH NG W EH L, TH AE NG K Y UW",
-      "Voice": "0",
+      "Voice": "Lino Ventura",
       "SpeakingStyle": "angry_slow_whisper",
       "Takes": [
         {
           "ID": 1,
-          "Voice": "0",
+          "Voice": "Lino Ventura",
           "SpeakingStyle": "angry_slow_whisper",
           "Model": "Standard",
           "Version": "v1.0"
         },
         {
           "ID": 2,
-          "Voice": "0",
+          "Voice": "Lino Ventura",
           "SpeakingStyle": "authority_fast_normal",
           "Model": "Expressive",
           "Version": "v2.0"
@@ -242,12 +242,12 @@
       "ID": 3,
       "Text": "What's your favorite color?",
       "Phonemes": "W AH T S Y AO R F EY V ER AH T K AH L ER",
-      "Voice": "1",
+      "Voice": "David Yow",
       "SpeakingStyle": "joy_slow_projected",
       "Takes": [
         {
           "ID": 1,
-          "Voice": "1",
+          "Voice": "David Yow",
           "SpeakingStyle": "joy_slow_projected",
           "Model": "Standard",
           "Version": "v1.0"
@@ -258,33 +258,33 @@
       "ID": 4,
       "Text": "My favorite color is blue.",
       "Phonemes": "M AY F EY V ER AH T K AH L ER IH Z B L UW",
-      "Voice": "7",
+      "Voice": "Jane Perry",
       "SpeakingStyle": "relieved_normal_normal",
       "Takes": [
         {
           "ID": 1,
-          "Voice": "7",
+          "Voice": "Jane Perry",
           "SpeakingStyle": "relieved_normal_normal",
           "Model": "Standard",
           "Version": "v1.0"
         },
         {
           "ID": 2,
-          "Voice": "7",
+          "Voice": "Jane Perry",
           "SpeakingStyle": "authority_slow_projected",
           "Model": "Expressive",
           "Version": "v2.0"
         },
         {
           "ID": 3,
-          "Voice": "7",
+          "Voice": "Jane Perry",
           "SpeakingStyle": "joy_fast_whisper",
           "Model": "Enhanced",
           "Version": "v3.0"
         },
         {
           "ID": 4,
-          "Voice": "7",
+          "Voice": "Jane Perry",
           "SpeakingStyle": "angry_normal_projected",
           "Model": "Ultra",
           "Version": "v4.0"
