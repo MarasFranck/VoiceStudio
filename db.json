@@ -124,38 +124,6 @@
     {
       "id": 16,
       "description": "joy_fast_projected"
-    },
-    {
-      "id": 17,
-      "description": "joy_fast_whisper"
-    },
-    {
-      "id": 18,
-      "description": "joy_normal_normal"
-    },
-    {
-      "id": 19,
-      "description": "joy_normal_projected"
-    },
-    {
-      "id": 20,
-      "description": "joy_normal_whisper"
-    },
-    {
-      "id": 21,
-      "description": "joy_slow_normal"
-    },
-    {
-      "id": 22,
-      "description": "joy_slow_projected"
-    },
-    {
-      "id": 23,
-      "description": "joy_slow_whisper"
-    },
-    {
-      "id": 24,
-      "description": "relieved_normal_normal"
     }
   ],
    "Lines": [
@@ -364,66 +332,6 @@
           "ID": 3,
           "Voice": "Lino Ventura",
           "SpeakingStyle": "authority_fast_whisper",
-          "Model": "Enhanced",
-          "Version": "v3.0"
-        }
-      ]
-    },
-    {
-      "ID": 7,
-      "Text": "Tell me about your dream vacation.",
-      "Phonemes": "T EH L M IY AH B AW T Y AO R D R IY M V EY K EY SH AH N",
-      "Voice": "Alain Delon",
-      "SpeakingStyle": "joy_slow_projected",
-      "Takes": [
-        {
-          "ID": 1,
-          "Voice": "Alain Delon",
-          "SpeakingStyle": "joy_slow_projected",
-          "Model": "Standard",
-          "Version": "v1.0"
-        },
-        {
-          "ID": 2,
-          "Voice": "Alain Delon",
-          "SpeakingStyle": "joy_normal_normal",
-          "Model": "Expressive",
-          "Version": "v2.0"
-        },
-        {
-          "ID": 3,
-          "Voice": "Alain Delon",
-          "SpeakingStyle": "joy_fast_whisper",
-          "Model": "Enhanced",
-          "Version": "v3.0"
-        }
-      ]
-    },
-    {
-      "ID": 8,
-      "Text": "Have you ever learned a new language?",
-      "Phonemes": "HH AE V Y UW EH V ER L ER N AH D AH N UW L AE NG G W AH JH",
-      "Voice": "Ben Sheedy",
-      "SpeakingStyle": "angry_slow_whisper",
-      "Takes": [
-        {
-          "ID": 1,
-          "Voice": "Ben Sheedy",
-          "SpeakingStyle": "angry_slow_whisper",
-          "Model": "Standard",
-          "Version": "v1.0"
-        },
-        {
-          "ID": 2,
-          "Voice": "Ben Sheedy",
-          "SpeakingStyle": "authority_normal_normal",
-          "Model": "Expressive",
-          "Version": "v2.0"
-        },
-        {
-          "ID": 3,
-          "Voice": "Ben Sheedy",
-          "SpeakingStyle": "authority_slow_projected",
           "Model": "Enhanced",
           "Version": "v3.0"
         }
