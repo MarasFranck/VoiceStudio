@@ -56,32 +56,6 @@
       "img": "https://tinyurl.com/55u8ex4e"
     }
   ],
-  "takes": [
-    {
-      "index": 0,
-      "speaker": "Ben Sheedy",
-      "style": "neutral normal normal",
-      "line-id": "123"
-    },
-    {
-      "index": 1,
-      "speaker": "David Yow",
-      "style": "neutral normal normal",
-      "line-id": "456"
-    },
-    {
-      "index": 2,
-      "speaker": "Jane Perry",
-      "style": "neutral normal normal",
-      "line-id": "789"
-    },
-    {
-      "index": 3,
-      "speaker": "Shannon Hansen",
-      "style": "neutral normal normal",
-      "line-id": "147"
-    }
-  ],
   "styles": [
     {
       "id": 0,
