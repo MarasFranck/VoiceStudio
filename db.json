@@ -184,110 +184,139 @@
       "description": "relieved_normal_normal"
     }
   ],
-  "Lines": [
+   "Lines": [
     {
-      "ID": 1,
-      "Text": "Hello, how are you?",
-      "Phonemes": "HH AH L OW, HH AW AH Y UW",
-      "Voice": "Alain Delon",
-      "SpeakingStyle": "angry_fast_projected",
+      "ID": 5,
+      "Text": "I love to explore new places.",
+      "Phonemes": "AY L AH V T AH IH K S P L AO R N UW P L EY S AH Z",
+      "Voice": "Ben Sheedy",
+      "SpeakingStyle": "joy_normal_normal",
       "Takes": [
         {
           "ID": 1,
-          "Voice": "Alain Delon",
-          "SpeakingStyle": "angry_fast_projected",
+          "Voice": "Ben Sheedy",
+          "SpeakingStyle": "joy_normal_normal",
           "Model": "Standard",
           "Version": "v1.0"
         },
         {
           "ID": 2,
-          "Voice": "Alain Delon",
-          "SpeakingStyle": "angry_fast_whisper",
-          "Model": "Expressive",
-          "Version": "v2.0"
-        },
-        {
-          "ID": 3,
-          "Voice": "Alain Delon",
-          "SpeakingStyle": "angry_normal_normal",
-          "Model": "Enhanced",
-          "Version": "v3.0"
-        }
-      ]
-    },
-    {
-      "ID": 2,
-      "Text": "I'm doing well, thank you.",
-      "Phonemes": "AY M D UW IH NG W EH L, TH AE NG K Y UW",
-      "Voice": "Lino Ventura",
-      "SpeakingStyle": "angry_slow_whisper",
-      "Takes": [
-        {
-          "ID": 1,
-          "Voice": "Lino Ventura",
-          "SpeakingStyle": "angry_slow_whisper",
-          "Model": "Standard",
-          "Version": "v1.0"
-        },
-        {
-          "ID": 2,
-          "Voice": "Lino Ventura",
-          "SpeakingStyle": "authority_fast_normal",
+          "Voice": "Ben Sheedy",
+          "SpeakingStyle": "joy_slow_projected",
           "Model": "Expressive",
           "Version": "v2.0"
         }
       ]
     },
     {
-      "ID": 3,
-      "Text": "What's your favorite color?",
-      "Phonemes": "W AH T S Y AO R F EY V ER AH T K AH L ER",
+      "ID": 6,
+      "Text": "Tell me about your favorite book.",
+      "Phonemes": "T EH L M IY AH B AW T Y AO R F EY V ER AH T B UH K",
       "Voice": "David Yow",
-      "SpeakingStyle": "joy_slow_projected",
+      "SpeakingStyle": "authority_normal_projected",
       "Takes": [
         {
           "ID": 1,
           "Voice": "David Yow",
-          "SpeakingStyle": "joy_slow_projected",
+          "SpeakingStyle": "authority_normal_projected",
           "Model": "Standard",
           "Version": "v1.0"
         }
       ]
     },
     {
-      "ID": 4,
-      "Text": "My favorite color is blue.",
-      "Phonemes": "M AY F EY V ER AH T K AH L ER IH Z B L UW",
+      "ID": 7,
+      "Text": "I enjoy cooking and trying new recipes.",
+      "Phonemes": "AY EH N JH OY K UH K IH NG AH N D T R AY IH NG N UW R EH S AH Z",
       "Voice": "Jane Perry",
-      "SpeakingStyle": "relieved_normal_normal",
+      "SpeakingStyle": "joy_slow_normal",
       "Takes": [
         {
           "ID": 1,
           "Voice": "Jane Perry",
-          "SpeakingStyle": "relieved_normal_normal",
+          "SpeakingStyle": "joy_slow_normal",
           "Model": "Standard",
           "Version": "v1.0"
-        },
+        }
+      ]
+    },
+    {
+      "ID": 8,
+      "Text": "What's the most exciting adventure you've had?",
+      "Phonemes": "W AH T S DH AH M OW S T IH K S AY T IH NG AE D V EH N CH ER Y UW V HH AE D",
+      "Voice": "Shannon Hansen",
+      "SpeakingStyle": "angry_normal_whisper",
+      "Takes": [
         {
-          "ID": 2,
-          "Voice": "Jane Perry",
-          "SpeakingStyle": "authority_slow_projected",
-          "Model": "Expressive",
-          "Version": "v2.0"
-        },
+          "ID": 1,
+          "Voice": "Shannon Hansen",
+          "SpeakingStyle": "angry_normal_whisper",
+          "Model": "Standard",
+          "Version": "v1.0"
+        }
+      ]
+    },
+    {
+      "ID": 9,
+      "Text": "Do you have any favorite quotes?",
+      "Phonemes": "D UW Y UW HH AE V EH N IY F EY V ER AH T K W OW T S",
+      "Voice": "Jean Gabin",
+      "SpeakingStyle": "authority_fast_normal",
+      "Takes": [
         {
-          "ID": 3,
-          "Voice": "Jane Perry",
-          "SpeakingStyle": "joy_fast_whisper",
-          "Model": "Enhanced",
-          "Version": "v3.0"
-        },
+          "ID": 1,
+          "Voice": "Jean Gabin",
+          "SpeakingStyle": "authority_fast_normal",
+          "Model": "Standard",
+          "Version": "v1.0"
+        }
+      ]
+    },
+    {
+      "ID": 10,
+      "Text": "Let's plan a movie night!",
+      "Phonemes": "L EH T S P L AE N AH M UW V IY N AY T",
+      "Voice": "Jack Torrance",
+      "SpeakingStyle": "joy_fast_projected",
+      "Takes": [
         {
-          "ID": 4,
-          "Voice": "Jane Perry",
-          "SpeakingStyle": "angry_normal_projected",
-          "Model": "Ultra",
-          "Version": "v4.0"
+          "ID": 1,
+          "Voice": "Jack Torrance",
+          "SpeakingStyle": "joy_fast_projected",
+          "Model": "Standard",
+          "Version": "v1.0"
+        }
+      ]
+    },
+    {
+      "ID": 11,
+      "Text": "Have you ever tried bungee jumping?",
+      "Phonemes": "HH AE V Y UW EH V ER T R AY D B AH N JH IY JH AH M P IH NG",
+      "Voice": "Lino Ventura",
+      "SpeakingStyle": "angry_slow_normal",
+      "Takes": [
+        {
+          "ID": 1,
+          "Voice": "Lino Ventura",
+          "SpeakingStyle": "angry_slow_normal",
+          "Model": "Standard",
+          "Version": "v1.0"
+        }
+      ]
+    },
+    {
+      "ID": 12,
+      "Text": "Tell me about a memorable trip you've taken.",
+      "Phonemes": "T EH L M IY AH B AW T AH M EH M ER AH B AH L T R IH P Y UW V T EY K AH N",
+      "Voice": "Alain Delon",
+      "SpeakingStyle": "joy_slow_whisper",
+      "Takes": [
+        {
+          "ID": 1,
+          "Voice": "Alain Delon",
+          "SpeakingStyle": "joy_slow_whisper",
+          "Model": "Standard",
+          "Version": "v1.0"
         }
       ]
     }
