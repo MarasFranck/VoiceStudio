@@ -22,12 +22,6 @@
       "img": "https://tinyurl.com/58u2hzey"
     },
     {
-      "name": "Shannon Hansen",
-      "version": "1.2.0",
-      "model": "vae-tacotron_hifigan",
-      "img": "https://tinyurl.com/fhkpexy4"
-    },
-    {
       "index": 3,
       "name": "Jean Gabin",
       "version": "1.0.0",
